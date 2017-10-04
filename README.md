@@ -1,5 +1,13 @@
 # Materialio
 
+## First clone the code 
+
+git clone https://github.com/periyasamy17/Materilio2inAngular4.git
+
+## Install npm packages
+
+`npm install`
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
 
 ## Development server
